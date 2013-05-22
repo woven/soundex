@@ -1,0 +1,6 @@
+name: soundex
+version: 0.5.5
+description: Calculate the soundex value.
+author: Kai Sellgren <kaisellgren@gmail.com>
+homepage: http://github.com/woven/soundex
+dependencies:
